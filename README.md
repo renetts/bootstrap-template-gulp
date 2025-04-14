@@ -60,7 +60,7 @@ Este comando:
 Puedes sobrescribir variables de Bootstrap dentro de `src/scss/`:
 
 1. Modifica el archivo `_variables.scss` con tus overrides.
-2. Antes de importar Bootstrap, importa tus variables:
+2. Agrega tus estilos a `main.scss`:
 
 ```scss
 // src/scss/main.scss
